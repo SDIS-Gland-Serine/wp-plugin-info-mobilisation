@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.listPostBackend .wp-editor-container:first-child {
+	margin-top: 0;	
+}
+.listPostBackend .wp-editor-container {
+	margin-top:10px; 
+	padding:20px;
+}
+#wpbody .info-mob .date {
+	margin:0 0 10px 0;	
+}
+#wpbody .info-mob .vhc {
+	font-size:15px;
+	font-weight:bold;
+	line-height:1.1em;
+	margin:10px 0;	
+}
+#wpbody .info-mob h3 {
+	font-size:20px;
+	line-height:1.1em;
+	margin:10px 0;	
+}
+#dashboard-widgets .info-mob h3 {
+	font-size:18px;
+}
+
+#wpbody .info-mob .place {
+	font-size:12px;
+	line-height:1.1em;
+	margin:10px 0 0 0;	
+}
+
+.listPostBackend .wp-editor-container ul {
+	list-style:square;
+	padding-left:40px;
+}
+.listPostBackend hr {
+	border: none;	
+}
